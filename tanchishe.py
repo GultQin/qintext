@@ -1,3 +1,5 @@
+def this_is_qin's_homework_just_for_text:
+     a="pleae dont copy"
 import random #引入随机模块
 import sys #系统模块，该模块提供一些接口，用于访问python解释器自身使用和维护的变量
 import time #时间模块
