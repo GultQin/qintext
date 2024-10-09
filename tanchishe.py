@@ -69,7 +69,7 @@ def main():
     screen = pygame.display.set_mode((Screen_Width, Screen_Height))  #创造显示的窗口
     # display.set_mode是pygame模块中的函数
     # 模板为pygame.display.set_mode((宽度, 高度), 可选参数，用于指定窗口的特性)
-    pygame.display.set_caption('覃崇飞的贪吃蛇物语果然有问题')  # 窗口名字
+    pygame.display.set_caption('我的贪吃蛇物语果然有问题')  # 窗口名字
     # 得分字体设置
     font1 = pygame.font.SysFont('SimHei', 24)#“SimHei”字体（通常用于显示中文），字体大小为24点
     # GO字体设置
